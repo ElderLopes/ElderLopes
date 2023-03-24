@@ -9,4 +9,12 @@ Sou programador FrontEnd,  estou aprendendo e criando projetos, procurando sempr
 <br>
 <br>
 <h2>Meu objetivo é ser um programador FullStack :computer::rocket::rocket::rocket:
+<br>
+<br>
+
+[![Elder Lopes](https://github-readme-stats.vercel.app/api?username=ElderLopes&theme=tokyonight)](https://github.com/ElderLopes/) 
+<br>
+<br>
+
+[![Elder Lopes](https://github-readme-stats.vercel.app/api/top-langs/?username=daancorrea&hide=html&layout=compact&theme=tokyonight)](https://github.com/ElderLopes/)
 
