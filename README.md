@@ -16,5 +16,5 @@ Sou programador FrontEnd,  estou aprendendo e criando projetos, procurando sempr
 <br>
 <br>
 
-[![Elder Lopes](https://github-readme-stats.vercel.app/api/top-langs/?username=daancorrea&hide=html&layout=compact&theme=tokyonight)](https://github.com/ElderLopes/)
+[![Elder Lopes](https://github-readme-stats.vercel.app/api/top-langs/?username=ElderLopes&hide=html&layout=compact&theme=tokyonight)](https://github.com/ElderLopes/)
 
