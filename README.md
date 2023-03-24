@@ -1,6 +1,6 @@
 ### Olá meu nome é Elder Ferreira Lopes!!!:wave:
 
-Sou programador FrontEnd,  estou aprendendo e criando projetos, procurando sempre me aperfeiçoar :sunglasses:
+Sou desenvolvedor FrontEnd,  estou aprendendo e criando projetos, procurando sempre me aperfeiçoar :sunglasses:
 <br>
 <h1>Linguagens e  Ferramentas que atuo</h1>
 <img  src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-Logo"/>
