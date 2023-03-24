@@ -1,4 +1,4 @@
-### Hi there  meu nome é Elder Ferreira Lopes!!!:wave:
+Olá meu nome é Elder Ferreira Lopes!!!:wave:
 
 Sou programador FrontEnd,  estou aprendendo e criando projetos, procurando sempre me aperfeiçoar :sunglasses
 <br>
