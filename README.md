@@ -1,8 +1,15 @@
 ### Olá meu nome é Elder Ferreira Lopes!!!:wave:
 
 Sou desenvolvedor FullStack ,  estou aprendendo e criando projetos, procurando sempre me aperfeiçoar:sunglasses:
-<br>
-<h1>Linguagens e  Ferramentas que atuo</h1>
+
+
+
+### Conecte-se comigo
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:elderfl85@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/elder-ferreira-lopes/)
+
+### Habilidades
 <div>
 <img  src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-Logo"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-logo"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript-Logo"/> 
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MOngo-Logo"/> 
@@ -21,10 +28,9 @@ Sou desenvolvedor FullStack ,  estou aprendendo e criando projetos, procurando s
 <br>
 <br>
 
+### GitHub Stats
+
 [![Elder Lopes](https://github-readme-stats.vercel.app/api?username=ElderLopes&theme=tokyonight)](https://github.com/ElderLopes/) 
 <br>
 <br>
-
 [![Elder Lopes](https://github-readme-stats.vercel.app/api/top-langs/?username=ElderLopes&theme=tokyonight)](https://github.com/ElderLopes/)
-
-
